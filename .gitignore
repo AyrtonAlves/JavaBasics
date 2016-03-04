@@ -1,0 +1,24 @@
+# Build and Object Folders
+.classpath
+.[pP]roject
+.[pP]roject/*
+.tern-project
+.tern-project/*
+.metadata
+.metadata/*
+.classpath
+.classpath/*
+.settings
+.settings/*
+.recommenders/*
+[tT]arget
+[tT]arget/*
+[sS]ervers/*
+[Ss]ervers
+
+# User Specific Files
+*.war
+*.class
+*.orig
+*.ini
+*.idea
